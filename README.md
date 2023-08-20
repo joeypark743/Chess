@@ -58,11 +58,11 @@ Close the game window to exit the game.
 
 
 ## Project Overview
-### Core Logic: engine.py defines the chess game's core logic and rules.
-### User Interface: main.py creates the Pygame interface for the game.
-### Chess Pieces: pieces folder contains chess piece images.
-### Styling: The game features basic board styling and piece images.
-### Interaction: Players can select and move pieces using mouse clicks.
+Core Logic: engine.py defines the chess game's core logic and rules.  
+User Interface: main.py creates the Pygame interface for the game.  
+Chess Pieces: pieces folder contains chess piece images.  
+Styling: The game features basic board styling and piece images.  
+Interaction: Players can select and move pieces using mouse clicks.  
 
 
 ## Conclusion
