@@ -24,7 +24,7 @@ python main.py
 
 ### Step By Step Setup Instructions
 (0.0) Clone the Repository:
-Open your terminal, navigate to the desired location (e.g., Desktop), and run the following command:
+Open your terminal and run the following command:
 
 ```
 git clone <repository-url>
