@@ -26,4 +26,6 @@ python main.py
 (0.0) Clone the Repository:
 Open your terminal, navigate to the desired location (e.g., Desktop), and run the following command:
 
+```bash
 git clone <repository-url>
+```
