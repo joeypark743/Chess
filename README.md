@@ -19,7 +19,7 @@ Please refer to the detailed instructions below.
 
 
 ### Step By Step Setup Instructions
-(0.0) Clone the Repository:
+(0.0) Clone the Repository:  
 Open your terminal and navigate to the desired location (e.g., Desktop).  
 Open your terminal and run the following command:  
 
