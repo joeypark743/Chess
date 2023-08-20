@@ -31,7 +31,7 @@ Replace <repository-url> with the actual repository URL.
 (0.1) Navigate to Project Directory
 Navigate to the project directory using the terminal:
 ```
-cd chess-game-project
+cd Chess
 ```
 
 (1) Install Pygame
