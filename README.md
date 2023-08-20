@@ -15,11 +15,7 @@
 
 Please refer to the detailed instructions below.
 
-### How To Run The Project Locally
-After setup, run the following command:
-```
-python main.py
-```
+## How To Run The Project Locally
 
 
 ### Step By Step Setup Instructions
